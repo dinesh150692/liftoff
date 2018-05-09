@@ -1,0 +1,49 @@
+.header{
+    height: 50px;
+    background: sienna;
+    width: 100%;
+    color: white;
+    margin-left:15px;
+    padding-left: 10px;
+    align-items: center;
+    display: flex;
+}
+
+.answerContainer{
+    margin-left: 15px;
+    padding-left: 10px;
+    height: 40px;
+    border: 1px #e1e1e1;
+    background: #e1e1e1;
+    width: 100%;
+}
+
+.margin{
+    margin: 0 10px 20px 10px;
+}
+
+.select{
+    margin-top: 10px;
+    outline: none;
+}
+
+.buttonContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.button{
+    width: 80px;
+    height: 30px;
+    border: 1px solid sienna;
+    background: white;
+    text-align: center;
+}
+
+.buttonDisabled{
+    cursor: no-drop;
+    background: grey;
+    border: 1px solid grey;
+    color: white;
+}
