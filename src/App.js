@@ -20,7 +20,7 @@ class App extends Component {
     return (
       <div>
         <header className="App-header row">
-          <h1 className="App-title col s12">Sample</h1>
+          <h1 className="App-title col s12">LiftOff Assgn.</h1>
         </header>
         <br />
         <div className="row">
